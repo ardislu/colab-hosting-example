@@ -8,3 +8,6 @@ The `colab-hosting-example.ipynb` Jupyter notebook contains a minimal example to
 4. Runtime > Run all
 
 That's it! Google Colab is now running a RESTful API for a machine learning model. Usage instructions and further explanation are on the notebook itself.
+
+## Complementary front-end 
+Once you've run the notebook, try out my [demo front-end](https://ardis.lu/colab-hosting) to see how an actual website would interact with such a backend.
